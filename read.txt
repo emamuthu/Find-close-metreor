@@ -1,4 +1,9 @@
 Code is written in python3.
 
 How to run this Code
-'python3 meteor.py'
+First ,install pipenv. then
+''''''''''''''
+pipenv install
+pipenv run "python meteor/meteor.py"
+
+''''''''''''''''''''''
